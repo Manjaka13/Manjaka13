@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Manjaka13/Manjaka13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Manjaka13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manjaka13&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on VipOptic project
 - 🌱 I’m currently learning Blockchain
@@ -15,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/harijaona-rajaonson)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Allergic to seafood :(
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manjaka13&layout=compact)
