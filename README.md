@@ -87,7 +87,7 @@
         <li class="info__item">😄 Pronouns: He/Him</li>
         <li class="info__item">🔭 I am working on a personal <a href="https://immo-mdg.vercel.app/" title="View the project">real estate</a> project</li>
         <li class="info__item">🌱 I’m currently learning blockchain technologies</li>
-        <li class="info__item">🤔 I’m looking for some advices for my <a href="https://immo-mdg.vercel.app/" title="View my portfolio">portfolio</a></li>
+        <li class="info__item">🤔 I’m looking for some advices for my <a href="https://harij.netlify.app/" title="View my portfolio">portfolio</a></li>
         <li class="info__item">💬 Ask me about Javascript if you need help !</li>
         <li class="info__item">⚡ Fun fact: allergic to shellfish :(</li>
     </ul>
