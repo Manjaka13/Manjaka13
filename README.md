@@ -16,79 +16,6 @@
 </div>
 
 <h2>👋 More about me !</h2>
-<<<<<<< HEAD
-<div class="info">
-    <ul class="info__list">
-        <li class="info__item">😄 Pronouns: He/Him</li>
-        <li class="info__item">🔭 I am working on a personal <a href="https://immo-mdg.vercel.app/" title="View the project">real estate</a> project</li>
-        <li class="info__item">🌱 I’m currently learning blockchain technologies</li>
-        <li class="info__item">🤔 I’m looking for some advices for my <a href="https://harij.netlify.app/" title="View my portfolio">portfolio</a></li>
-        <li class="info__item">💬 Ask me about Javascript if you need help !</li>
-        <li class="info__item">⚡ Fun fact: allergic to shellfish :(</li>
-    </ul>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=manjaka13&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="Hari's Github streak stats" />
-</div>
-
-<style>
-    .separator {
-        width: 100%;
-        height: 3px;
-        background: rgb(100, 100, 100);
-        border-radius: 5px;
-        margin-top: 40px;
-    }
-
-    .social {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        list-style-type: none;
-        padding: 20px 0;
-        margin: 0;
-    }
-
-    .social__item {
-        margin-left: 20px;
-    }
-
-    .social__item:first-child {
-        margin-left: 0;
-    }
-
-    .social__linkedin {
-        width: 34px;
-        height: 34px;
-    }
-
-    .social__facebook {
-        width: 35px;
-        height: 35px;
-    }
-
-    .social__skype {
-        width: 40px;
-        height: 40px;
-    }
-</style>
-<div class="separator"></div>
-<ul class="social">
-    <li class="social__item">
-        <a href="https://www.facebook.com/manjaka13" title="Tchat on facebook">
-            <img class="social__facebook" alt="Facebook" src="./assets/facebook.png" />
-        </a>
-    </li>
-    <li class="social__item">
-        <a href="https://www.linkedin.com/in/harijaona-rajaonson/" title="Connect with LinkedIn">
-            <img class="social__linkedin" alt="LinkedIn" src="./assets/linkedin.png" />
-        </a>
-    </li>
-    <li class="social__item">
-        <a href="https://join.skype.com/invite/zR6CMGRrgOPh" title="Talk on Skype">
-            <img class="social__skype" alt="Skype" src="./assets/skype.png" />
-        </a>
-    </li>
-</ul>
-=======
 <table>
     <tr>
         <td>
@@ -108,16 +35,15 @@
 </table>
 
 <p align="center">
-<a href="https://www.facebook.com/manjaka13" title="Tchat on facebook">
-    <img class="social__facebook" alt="Facebook" src="./assets/facebook.png" width="35px" />
-</a>
-*
-<a href="https://www.linkedin.com/in/harijaona-rajaonson/" title="Connect with LinkedIn">
-    <img class="social__linkedin" alt="LinkedIn" src="./assets/linkedin.png" width="35px" />
-</a>
-*
-<a href="https://join.skype.com/invite/zR6CMGRrgOPh" title="Talk on Skype">
-    <img class="social__skype" alt="Skype" src="./assets/skype.png" width="35px" />
-</a>
+    <a href="https://www.facebook.com/manjaka13" title="Tchat on facebook">
+        <img class="social__facebook" alt="Facebook" src="./assets/facebook.png" width="35px" />
+    </a>
+    *
+    <a href="https://www.linkedin.com/in/harijaona-rajaonson/" title="Connect with LinkedIn">
+        <img class="social__linkedin" alt="LinkedIn" src="./assets/linkedin.png" width="35px" />
+    </a>
+    *
+    <a href="https://join.skype.com/invite/zR6CMGRrgOPh" title="Talk on Skype">
+        <img class="social__skype" alt="Skype" src="./assets/skype.png" width="35px" />
+    </a>
 </p>
->>>>>>> 6177c8347cc78d4dbd79729bdf7ecbb3dfcf3585
