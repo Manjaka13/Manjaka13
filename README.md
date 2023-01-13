@@ -8,13 +8,6 @@
         <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
     </p>
 
-<div class="about">
-    <figure class="about__streak">
-        <img src="https://github-readme-stats.vercel.app/api?username=Manjaka13&show_icons=true&theme=radical" alt="Hari's stats"/>
-    </figure>
-    <img class="about__coding-image" height="200px" align="right" src="./assets/codinghome.gif" alt="Coding from home" />
-</div>
-
 <h2>👋 More about me !</h2>
 <table>
     <tr>
@@ -33,6 +26,13 @@
         </td>
     </tr>
 </table>
+
+<div class="about">
+    <figure class="about__streak">
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manjaka13&show_icons=true&theme=radical"/>
+    </figure>
+    <img class="about__coding-image" height="200px" align="right" src="./assets/codinghome.gif" alt="Coding from home" />
+</div>
 
 <p align="center">
     <a href="https://www.facebook.com/manjaka13" title="Tchat on facebook">
